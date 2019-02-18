@@ -1,0 +1,8 @@
+{
+  "name": "drank",
+  "version": "0.0.1",
+  "description": "Comprehensive usability testing tool",
+  "main": "index.js",
+  "author": "trymoto",
+  "license": "MIT"
+}
