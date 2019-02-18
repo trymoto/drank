@@ -4,5 +4,9 @@
   "description": "Comprehensive usability testing tool",
   "main": "index.js",
   "author": "trymoto",
+  "repository":{
+    "type": "git",
+    "url": "https://github.com/trymoto/drank.git"
+  },
   "license": "MIT"
 }
