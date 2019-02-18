@@ -1,10 +1,10 @@
 {
   "name": "drank",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "Comprehensive usability testing tool",
   "main": "index.js",
   "author": "trymoto",
-  "repository":{
+  "repository": {
     "type": "git",
     "url": "https://github.com/trymoto/drank.git"
   },
